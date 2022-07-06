@@ -40,22 +40,22 @@ les procédures et les fonctions suivantes :
         • Afficher la liste de tous les étudiants de la promotion par ordre de mérite.
 5. SAUVEGARDE DES RÉSULTATS
     a) À la fin de l’exécution de l’application, on veut enregistrer toutes les modifications apportées aux listes dans un fichier (Resultats.txt)dont le format est donné ci-dessous
-                Modules
-                NomModule1 NomModule2 … NomModuleN
-                Groupe1
-                IdEtud1 NomEtud1 PrenEtud1
-                Note1 Note2 … NoteN
-                MoyEtud1
-                IdEtud2 NomEtud2 PrenEtud2
-                Note1 Note2 … NoteN
-                MoyEtud2
-                …
-                Groupe2
-                IdEtud1 NomEtud1 PrenEtud1
-                Note1 Note2 … NoteN
-                MoyEtud1
-                …
-                Groupe11
-                IdEtud1 NomEtud1 PrenEtud1
-                Note1 Note2 … NoteN
-                MoyEtud1
+                -Modules
+                -NomModule1 NomModule2 … NomModuleN
+                -Groupe1
+                -IdEtud1 NomEtud1 PrenEtud1
+                -Note1 Note2 … NoteN
+                -MoyEtud1
+                -IdEtud2 NomEtud2 PrenEtud2
+                -Note1 Note2 … NoteN
+                -MoyEtud2
+                -…
+                -Groupe2
+                -IdEtud1 NomEtud1 PrenEtud1
+                -Note1 Note2 … NoteN
+                -MoyEtud1
+                -…
+                -Groupe11
+                -IdEtud1 NomEtud1 PrenEtud1
+                -Note1 Note2 … NoteN
+                -MoyEtud1
